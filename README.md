@@ -1,4 +1,4 @@
-# Custom Cursor Projectnfor Website.
+# Custom Cursor Project for Website.
 
 ## ✨ Introduction
 
