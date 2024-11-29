@@ -1,0 +1,2 @@
+# cursor-trail-effect-website
+ A custom cursor implementation using HTML, CSS, JavaScript, and PHP that creates an interactive and dynamic user experience. This project includes a trailing circle and dot effect that follows the mouse cursor, with customizable styling and animations. The cursor changes behavior when hovering over interactive elements like buttons and links, providing a visually appealing and modern effect.  Perfect for websites or web applications looking to enhance their UI with a unique cursor design.
